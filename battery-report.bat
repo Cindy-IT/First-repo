@@ -1,0 +1,6 @@
+@echo off
+echo Generating battery health report...
+powercfg /batteryreport
+echo Report saved to: %userprofile%\battery-report.html
+echo Press any key to exit...
+pause > nul
