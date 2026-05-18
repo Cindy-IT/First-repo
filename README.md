@@ -12,7 +12,7 @@ The laptop shows no Wi-Fi networks or says "Cannot connect to this network."
 2. **Restart the modem and router** – Unplug for 30 seconds, plug back in
 3. **Forget and reconnect** – Click the Wi-Fi icon → your network name → "Forget" → reconnect and type the password again
 4. **Run the Windows troubleshooter** – Settings → Network & Internet → Status → "Network troubleshooter"
-5. **Last resort** – In Command Prompt (run as admin), type: `netsh winsock reset` then restart the laptop
+5. **Last resort** – In Command Prompt (run as admin), `netsh winsock reset` then restart the laptop
 
 ### When to call IT support
 If none of these work after 15 minutes, the network adapter might be failing.
