@@ -1,7 +1,76 @@
+# 👋 Hi, I'm Cindy
+
+💻 IT Support & Cybersecurity Professional
+🛡️ CompTIA Security+ Certified
+📍 Passionate about troubleshooting, security, and continuous learning
+
+---
+
+## 🎯 Career Goals
+Currently seeking opportunities in:
+- IT Support
+- Helpdesk
+- SOC Analyst
+
+I’m building hands-on skills in system administration, troubleshooting, networking, and security while documenting my learning journey through projects and labs.
+
+---
+
+## 🛠️ Technical Skills
+
+### Operating Systems & Support
+- Windows troubleshooting
+- Password resets & account recovery
+- Remote desktop support basics
+- User support & technical documentation
+
+### Active Directory
+- User account creation
+- Password management
+- Account unlock/reset
+- Group Policy basics
+
+### Networking
+- Wi-Fi troubleshooting
+- Routers & modems
+- Basic network connectivity
+- Network fundamentals
+
+### Scripting
+- Basic batch scripting
+
+---
+
+## 📚 Currently Learning
+- ServiceNow
+- Jira
+- SOC workflows
+- Security monitoring tools
+- Advanced troubleshooting
+
+---
+
+## 🚀 Projects & Labs
+Here you'll find:
+- IT support troubleshooting guides
+- Active Directory labs
+- Networking practice
+- Security learning notes
+- Hands-on technical projects
+
+---
+
+## 🏆 Certifications
+- ✅ CompTIA Security+
+
+---
+
+## 📫 Connect With Me
+- GitHub: github.com/Cindy-IT/First-repo
+- https://github.com/Cindy-IT/First-repo
+
+
 # My IT Support Portfolio
-
-Hi, I am Cindy. This is where I'll share my IT support projects.
-
 ## My first guide: Laptop won't connect to Wi-Fi
 
 ### Problem:
