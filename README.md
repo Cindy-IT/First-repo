@@ -16,3 +16,28 @@ The laptop shows no Wi-Fi networks or says "Cannot connect to this network."
 
 ### When to call IT support
 If none of these work after 15 minutes, the network adapter might be failing.
+
+## My Second Guide: Forgot Windows Password
+
+### Problem
+A user cannot log into their work computer because they forgot their password.
+
+---
+
+## 1. Self-Service Password Recovery
+- Click “I forgot my password” on the login screen
+- Answer configured security questions
+- Reset the password if verification succeeds
+
+---
+
+## 2. Administrator-Assisted Reset
+- If self-service recovery fails, contact IT support
+- An administrator can reset the password from another authorized system
+
+---
+
+## 3. Security Best Practices
+- Never bypass company security controls
+- Always follow organizational password reset procedures
+- Ensure recovery actions are properly authorized
