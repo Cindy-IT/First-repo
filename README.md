@@ -72,6 +72,27 @@ A user complains their computer takes forever to open programs, boot up, or brow
 ### Pro tip for IT support:
 Before doing anything, ask the user: *"When did this start happening?"* The answer often reveals the cause; a new update, a new program, or a recent error message.
 
+## My first script: Battery Health Report (Windows)
+
+### What this script does:
+Generates a detailed battery health report for Windows laptops.
+
+### When IT support uses this:
+- User says "My battery dies too fast"
+- Checking if a battery needs replacement
+- Documenting battery degradation over time
+
+### How to run it:
+1. Save the file as `battery-report.bat`
+2. Right-click → "Run as Administrator"
+3. A file called `battery-report.html` will appear in your user folder
+4. Double-click that file to open the report in your browser
+
+### What the report shows:
+- Original battery capacity
+- Current battery capacity
+- Recent usage history
+- Estimated battery life
 
 
 
