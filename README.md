@@ -41,3 +41,45 @@ A user cannot log into their work computer because they forgot their password.
 - Never bypass company security controls
 - Always follow organizational password reset procedures
 - Ensure recovery actions are properly authorized
+
+## My third guide: Computer is running very slow
+
+### Problem:
+A user complains their computer takes forever to open programs, boot up, or browse the internet.
+
+### Step-by-step fix:
+
+#### 1. Quick wins (no technical skills needed)
+- Restart the computer (not shut down — actually click "Restart")
+- Close unused browser tabs (Chrome/Firefox/Edge eat memory)
+- Check if antivirus is running a scan (wait for it to finish)
+
+#### 2. Clean up temporary files (Windows)
+- Press `Windows key + R`, type `temp`, press Enter
+- Delete everything in that folder (safe to delete)
+- Do the same with `%temp%` and `prefetch`
+
+#### 3. Check what's slowing it down
+- Press `Ctrl + Shift + Esc` to open Task Manager
+- Click "More details" (bottom of window)
+- Look at "CPU" and "Memory" columns if anything is at 100%, that's the problem
+
+#### 4. When to escalate to IT
+- If disk is at 100% constantly (hard drive may be failing)
+- If CPU is at 100% with no programs open (possible virus)
+- If user has less than 4GB RAM (need hardware upgrade)
+
+### Pro tip for IT support:
+Before doing anything, ask the user: *"When did this start happening?"* The answer often reveals the cause; a new update, a new program, or a recent error message.
+
+
+
+
+
+
+
+
+
+
+
+
