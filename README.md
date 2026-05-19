@@ -1,74 +1,29 @@
-# 👋 Hi, I'm Cindy
+# 👋 About Me
 
-💻 IT Support & Cybersecurity Professional
-🛡️ CompTIA Security+ Certified
-📍 Passionate about troubleshooting, security, and continuous learning
+Hi, I am **Cindy**. I'm passionate about IT support, problem-solving, and helping people use technology effectively.
 
----
+**Looking for:** Entry-level IT Support / Helpdesk / SOC Analyst
 
-## 🎯 Career Goals
-Currently seeking opportunities in:
-- IT Support
-- Helpdesk
-- SOC Analyst
-
-I’m building hands-on skills in system administration, troubleshooting, networking, and security while documenting my learning journey through projects and labs.
-
----
-
-## 🛠️ Technical Skills
-
-### Operating Systems & Support
-- Windows troubleshooting
-- Password resets & account recovery
-- Remote desktop support basics
-- User support & technical documentation
-
-### Active Directory
-- User account creation
-- Password management
-- Account unlock/reset
-- Group Policy basics
-
-### Networking
-- Wi-Fi troubleshooting
-- Routers & modems
-- Basic network connectivity
-- Network fundamentals
-
-### Scripting
-- Basic batch scripting
-
----
-
-## 📚 Currently Learning
-- ServiceNow
-- Jira
-- SOC workflows
-- Security monitoring tools
-- Advanced troubleshooting
-
----
-
-## 🚀 Projects & Labs
-Here you'll find:
-- IT support troubleshooting guides
-- Active Directory labs
-- Networking practice
-- Security learning notes
-- Hands-on technical projects
-
----
-
-## 🏆 Certifications
+**Certifications:**
 - ✅ CompTIA Security+
 
----
+**Technical Skills:**
+- Windows troubleshooting, Active Directory, password resets
+- Networking basics (GNS3, Packet Tracer)
+- Scripting (batch files)
+- Security tools (TryHackMe, SOC workflows in progress)
 
-## 📫 Connect With Me
-- GitHub: github.com/Cindy-IT/First-repo
-- https://github.com/Cindy-IT/First-repo
+**What I bring beyond tech:**
+- Clear communication (explaining complex issues simply)
+- Attention to detail and documentation
+- Reliability and strong work ethic
 
+**Currently learning:**
+- ServiceNow, Jira, SOC monitoring tools
+
+**Find my work:**
+- GitHub portfolio: [github.com/Cindy-IT/First-repo](https://github.com/Cindy-IT/First-repo)
+- LinkedIn: https://linkedin.com/in/cindy-nwokeji-8a5bb5366  
 
 # My IT Support Portfolio
 ## My first guide: Laptop won't connect to Wi-Fi
