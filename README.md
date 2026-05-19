@@ -163,6 +163,47 @@ Generates a detailed battery health report for Windows laptops.
 - Recent usage history
 - Estimated battery life
 
+## Active Directory Guide: How to reset a user's password
+
+### Scenario:
+A user calls IT support saying they forgot their password and can't log into their computer.
+
+### Step-by-step fix (for IT support):
+
+#### 1. Log into the Domain Controller
+- Remote Desktop into the Active Directory server
+- Or use a management workstation with RSAT tools installed
+
+#### 2. Open Active Directory Users and Computers (ADUC)
+- Click Start → Type `dsa.msc` → Press Enter
+- Or find it under Windows Administrative Tools
+
+#### 3. Find the user
+- Navigate to the correct Organizational Unit (OU)
+- Or right-click the domain → Find → Type the user's name
+
+#### 4. Reset the password
+- Right-click the user → Select "Reset Password"
+- Enter a temporary password (example: `Greenhouse056`)
+- Check "User must change password at next logon"
+- Click OK
+
+#### 5. Communicate with the user
+- Give the user their temporary password
+- Tell them: "You'll be prompted to create a new password when you log in"
+- Remind them to use a strong password (8+ characters, mix of letters/numbers/symbols)
+
+### Pro tips for IT support:
+- Never ask for a user's password — reset it for them
+- Document all password resets in your ticketing system
+- If this happens frequently for the same user, check if they need training or if there's a larger issue
+
+### Common issues & fixes:
+| Issue | Solution |
+|-------|----------|
+| "Access denied" when resetting | Your admin account lacks permissions → escalate to senior admin |
+| User still can't log in after reset | Check if account is locked or disabled |
+| User is remote (not on VPN) | They need VPN access before the new password works |
 
 
 
